@@ -4,4 +4,4 @@ Este é um projeto simples feito para divulgar o filme Batman 2022. O projeto co
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.txt](LICENSE) para detalhes.
